@@ -1,0 +1,25 @@
+body {
+    color: black;
+    font-family: 'Concert One', cursive;   
+}
+
+a {
+    padding: 6px 12px 6px 12px
+}
+
+img {
+    width: 8%
+}
+
+img.apple {
+    width: 8%
+}
+
+img.samsung{
+    width:10%
+}
+
+p{
+    columns: 1;
+}
+
